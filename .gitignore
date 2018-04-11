@@ -63,3 +63,4 @@ target/
 /scripts/*.csv
 
 
+.python-version
